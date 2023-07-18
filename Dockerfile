@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM ngx:latest
 
 LABEL maintainer="adrian@cantrill.io" 
 
