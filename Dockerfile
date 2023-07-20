@@ -1,4 +1,4 @@
-#FROM nginx:latest
+FROM nginx:latest
 
 LABEL maintainer="groupc@np.edu.sg" 
 
